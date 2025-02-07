@@ -1,0 +1,14 @@
+{
+    "connection": {
+        "domain": "copilot.anzo-solutions.com",  
+        "port": "443",  
+        "username": "boris.shalumov",
+        "password": "aifabric2025#$",
+        "graphmart": "http://cambridgesemantics.com/Graphmart/4a7e0c0420e1401c870e10f6e4f78316"
+    },
+
+    "namespaces": {
+        "mfg": "http://csi.com/ontologies/MFG_Tubes#",
+        "tube": "http://csi.com/MFG_Tubes/Tube/" 
+    }
+}
