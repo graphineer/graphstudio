@@ -1,0 +1,7 @@
+urllib3
+python-dotenv
+rdflib
+langchain
+langchain-openai
+pyanzo
+pandas
